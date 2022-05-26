@@ -129,10 +129,7 @@ namespace TelegramBotForMiners
                 receiverOptions,
                 cancellationToken
             );
-            //while (true)
-            //{
-
-            //}
+            
             Console.ReadLine();
         }
     }
